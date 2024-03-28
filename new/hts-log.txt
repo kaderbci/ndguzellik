@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 28 Mar 2024 15:36:52 at https://www.esteslineguzellik.com.tr/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.esteslineguzellik.com.tr/ -O1 "C:\Benim Web Sitem\new" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:38:41	Error: 	"Not Found" (404) at link https://www.esteslineguzellik.com.tr/dsm_include/images/shape/shape-20.webp (from https://www.esteslineguzellik.com.tr/dsm_include/css/style.min.css)
+15:38:41	Error: 	"Not Found" (404) at link https://www.esteslineguzellik.com.tr/a (from https://connect.facebook.net/en_US/fbevents.js)
+15:38:41	Error: 	"Not Found" (404) at link https://www.esteslineguzellik.com.tr/POST (from https://connect.facebook.net/en_US/fbevents.js)
+15:38:41	Error: 	"Not Found" (404) at link https://www.esteslineguzellik.com.tr/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+15:38:41	Error: 	"Not Found" (404) at link https://www.esteslineguzellik.com.tr/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+15:38:41	Error: 	"Not Found" (404) at link https://www.esteslineguzellik.com.tr/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+15:38:44	Error: 	"Not Found" (404) at link https://www.esteslineguzellik.com.tr/uploads/pages/estesline_guzellik_salonu_haberler.jpg (from https://www.esteslineguzellik.com.tr/haberler)
+15:38:59	Error: 	"Not Found" (404) at link https://www.esteslineguzellik.com.tr/dsm_include/images/shape/shape-4.webp (from https://www.esteslineguzellik.com.tr/egitimler)
+15:38:59	Warning: 	Link https://www.esteslineguzellik.com.tr/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 38 seconds : 318 links scanned, 309 files written (20257020 bytes overall) [17379547 bytes received at 109997 bytes/sec], 4230134 bytes transferred using HTTP compression in 177 files, ratio 25%, 35.3 requests per connection
+(8 errors, 1 warnings, 0 messages)
